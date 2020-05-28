@@ -1,0 +1,9 @@
+[submodule "sxaurora_leveldb"]
+	path = sxaurora_leveldb
+	url = git@github.com:liva/sxaurora_leveldb.git
+[submodule "accelfs"]
+	path = accelfs
+	url = git@github.com:liva/accelfs.git
+[submodule "sxaurora_unvme"]
+	path = sxaurora_unvme
+	url = git@github.com:liva/sxaurora_unvme.git
